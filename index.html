@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Brown Polo</title>
+        <link href="https://fonts.googleapis.com/css?family=Catamaran:400,500|Josefin+Sans:700|Lato:400,400i|Poppins:400,500,600" rel="stylesheet">
+        <link href="assets/css/main.css" rel="stylesheet">
+        <link href="images/crest_favicon.png" rel="shortcut icon" type="image/x-icon">
+        <script language="JavaScript" type="text/javascript">
+            function changeFrame(page){
+                document.getElementById("content").src = page;
+            }
+        </script>
+        <!---<script>
+            window.onload = function() {
+                var navitems = document.getElementsByClassName("navbar-item");
+                for (var i = 0; i < navitems.length; i++) {
+                    var item = navitems[i];
+                    item.onclick = function() {
+                        changeFrame(item.href);
+                        return false;
+                    }
+                }
+            }
+        </script>--->
+    </head>
+    
+    <body>
+        
+        <!-- CONTENT -->
+        <iframe id="content"></iframe>
+
+        <!-- NAV -->
+        <nav id="nav">
+            <ul>
+                <li><a href="about.html" onClick="changeFrame(this.href); return false;">ABOUT</a></li>
+                <li><a href="schedule.html" onClick="changeFrame(this.href); return false;">SCHEDULE</a></li>
+                <li><a href="players.html" onClick="changeFrame(this.href); return false;">PLAYERS</a></li>
+                <li><a href="store.html" onClick="changeFrame(this.href); return false;">STORE</a></li>
+                <li><a href="giving.html" onClick="changeFrame(this.href); return false;">GIVING</a></li>
+                <li><a href="contact.html" onClick="changeFrame(this.href); return false;">CONTACT</a></li>
+            </ul>
+
+        </nav>
+        
+    </body>
+
+</html>
