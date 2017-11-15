@@ -162,6 +162,7 @@ section.main {
     min-height: 100vh;
     background-color:var(--gold);
     display: flex;
+    padding: 50px;
 }
 
 section.pic {
@@ -208,15 +209,15 @@ section.pic {
 }
 
 #p2 {
-    background-image: url('../images/team_photo_small.jpg');
+    background-image: url('../images/gunbir_smash_small.jpg');
 }
 
 #p3 {
-    background-image: url('../images/paddocks_small.jpg');
+    background-image: url('../images/team_photo_small.jpg');
 }
 
 #p4 {
-    background-image: url('../images/gunbir_smash_small.jpg');
+    background-image: url('../images/paddocks_small.jpg');
 }
 
 #p5 {
