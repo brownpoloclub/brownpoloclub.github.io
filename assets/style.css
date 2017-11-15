@@ -153,6 +153,9 @@ header * {
     background-color: var(--brown);
 }
 
+h1 {
+    font-family: 'Freight Sans', 'Calibri', 'Georgia', sans-serif;
+
 section {
     min-height: 600px;
     width: calc(100vw - var(--header-width));
