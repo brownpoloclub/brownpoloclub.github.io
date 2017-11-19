@@ -164,13 +164,13 @@ section {
 section.main {
     min-height: 100vh;
     background-color:var(--gold);
-    display: inline-flex;
+    display: -webkit-flex;
+    display: flex;
     padding: 50px;
 }
 
 section.pic {
     height: 90vh;
-    display: block;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
