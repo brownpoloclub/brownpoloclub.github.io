@@ -208,21 +208,21 @@ section.pic {
 }
 
 #p1 {
-    background-image: url('../images/bryn_flag_small.jpg');
+    background-image: url('images/bryn_flag_small.jpg');
 }
 
 #p2 {
-    background-image: url('../images/gunbir_smash_small.jpg');
+    background-image: url('images/gunbir_smash_small.jpg');
 }
 
 #p3 {
-    background-image: url('../images/team_photo_small.jpg');
+    background-image: url('images/team_photo_small.jpg');
 }
 
 #p4 {
-    background-image: url('../images/paddocks_small.jpg');
+    background-image: url('images/paddocks_small.jpg');
 }
 
 #p5 {
-    background-image: url('../images/squeegee_small.jpg');
+    background-image: url('images/squeegee_small.jpg');
 }
