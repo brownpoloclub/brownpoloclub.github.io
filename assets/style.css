@@ -209,11 +209,11 @@ section.pic {
 }
 
 #p1 {
-    background-image: url('../images/bryn_flag_small.jpg');
+    background-image: url('/images/bryn_flag_small.jpg');
 }
 
 #p2 {
-    background-image: url('../images/gunbir_smash_small.jpg');
+    background-image: url('images/gunbir_smash_small.jpg');
 }
 
 #p3 {
