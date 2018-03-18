@@ -1,15 +1,40 @@
 # brownpoloclub.github.io
---------------------------------------------------------------------------------
-ABOUT
 
-HOSTING INFORMATION-------------------------------------------------------------
+ABOUT---------------------------------------------------------------------------
+This is a website for the Brown University Club Polo team. It was built from
+Fall 2017 to Spring 2018 by Michael Kearney '20 and is currently maintained by
+him. The website was designed jointly by Bryn Sullivan '20 and Michael.
+
+
+INFORMATION FOR FUTURE WEBMASTERS-----------------------------------------------
 We use this public GitHub repository to maintain version control amongst the
-website's administrators. Contact Michael Kearney (michael_kearney@brown.edu,
-michael_kearney@alumni.brown.edu, or michaelkearney55@gmail.com) to be added as
-a contributor to this repository. Hosting is by 
+website's administrators. Contact Michael Kearney to be added as a contributor
+to this repository. Hosting is through Google Domains.
 
-INFORMATION FOR FUTURE WEBMASTERS
+As of March 2018, the focus is on finishing building the desktop version of the
+website. Subsequent effort will be focused on creating mobile and tablet
+versions. It is important that the information on this website be kept up to
+date. Annually changing information, such as officers and schedule, will be
+tagged with an as of yet undetermined comment system to ensure old information
+is removed and the current information is added.
 
-CONTACT
+The website is designed as a single scrolling page with a vertical menu bar on
+the left side of the page. On mobile, the menu will be a drop-down menu at the
+top of the screen. The design of the website makes significant use of flexboxes.
+A guide to the use of flexboxes can be found below.
 
-COPYRIGHT
+<https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+
+
+CONTACT-------------------------------------------------------------------------
+Webmaster: Michael Kearney '20
+michael_kearney [at] brown [dot] edu (until May 2020)
+michaelkearney55 [at] gmail [dot] com (after May 2020)
+
+
+COPYRIGHT-----------------------------------------------------------------------
+This website, including all code, content, and images, is the property of Brown
+Polo Club or the content creators and and may only be used or reproduced with
+the express written permission of the Webmaster or President, in the case of
+Brown Polo Club property, or with the express written permission of the content
+creator, in the case of individually-owned content.
