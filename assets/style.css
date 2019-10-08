@@ -37,7 +37,7 @@ header {
     top: 0;
     left: 0;
     height: 100vh;
-    padding: 20px 0 20px 0;
+    padding: 20px;
     width: var(--header-width);
     font-family: 'Freight Sans', 'Josefin Sans', 'Minion Pro';
     
@@ -161,7 +161,7 @@ section {
     width: calc(100vw - var(--header-width));
 }
 
-section.main {
+.main {
     min-height: 100vh;
     background-color:var(--gold);
     display: -webkit-flex;
@@ -169,7 +169,7 @@ section.main {
     padding: 50px;
 }
 
-section.pic {
+.pic {
     height: 90vh;
     background-size: cover;
     background-position: center center;
